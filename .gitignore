@@ -67,3 +67,8 @@ packages/
 
 #Test files
 *.testsettings
+
+#Test files
+bin/
+obj/
+.vs/
