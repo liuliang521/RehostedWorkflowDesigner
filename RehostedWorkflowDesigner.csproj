@@ -155,9 +155,11 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Resource Include="art\main-screen.png" />
     <Content Include="defaultWorkflowService.xamlx">
       <SubType>Designer</SubType>
     </Content>
+    <None Include="README.md" />
     <None Include="TestWorkflows\TestLoopWithDelay.xaml">
       <Generator>MSBuild:Compile</Generator>
     </None>
